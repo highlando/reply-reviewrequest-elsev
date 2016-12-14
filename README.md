@@ -31,8 +31,8 @@ Best regards,
 
 Jan Heiland
 
-[1]: http://thecostofknowledge.com/ [2]:
-http://osc.universityofcalifornia.edu/2016/02/uc-lingustics-faculty-support-glossa/
+[1]: http://thecostofknowledge.com/ 
+[2]: http://osc.universityofcalifornia.edu/2016/02/uc-lingustics-faculty-support-glossa/
 ```
 
 #### Use, remix, improve
