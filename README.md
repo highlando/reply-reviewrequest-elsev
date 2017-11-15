@@ -42,20 +42,37 @@ Dear ,
 
 Thank you for the invitation to review this paper.
 
-I am in general a proponent of the Open Access model, but I have several concerns about the way it is implemented by Bentham.
+I am in general a proponent of the Open Access model, but I have several
+concerns about the way it is implemented by Bentham.
 
-Firstly, looking at the next-to-last published volume of TOAUTOCJ I see no less than 7 retractions, which is more than half of the articles in the volume. This indicates to me that the review process is not functioning properly. A quick online search demonstrates that this is an issue also of other Bentham journals, where fake articles have been accepted. I would therefore like to know what measures are being taken to remedy this situation, and to guarantee a high standard of publishing?
+Firstly, looking at the next-to-last published volume of TOAUTOCJ I see no less
+than 7 retractions, which is more than half of the articles in the volume. This
+indicates to me that the review process is not functioning properly. A quick
+online search demonstrates that this is an issue also of other Bentham journals,
+where fake articles have been accepted. I would therefore like to know what
+measures are being taken to remedy this situation, and to guarantee a high
+standard of publishing?
 
-Secondly, I am also concerned about the fact that this mail was not sent by a member of the editorial board at TOAUTOCJ. Who is the editor, and did he/she have a preliminary look at the paper in question? I have not read the article (since it was not provided), but the given title and abstract indicates to me that it does not contain any new or novel results.
+Secondly, I am also concerned about the fact that this mail was not sent by a
+member of the editorial board at TOAUTOCJ. Who is the editor, and did he/she
+have a preliminary look at the paper in question? I have not read the article
+(since it was not provided), but the given title and abstract indicates to me
+that it does not contain any new or novel results.
 
-Finally, the article fees of 925 USD (or 880, in the FAQ) are high. I realize that providing open access to articles costs money, but according to general considerations and the experience of SCIELO [1], a reasonable fee is around 200 USD. To me, this therefore seems that TOAUTOCJ’s first purpose is making money rather than facilitating science which makes me reluctant to contribute to it.
+Finally, the article fees of 925 USD (or 880, in the FAQ) are high. I realize
+that providing open access to articles costs money, but according to general
+considerations and the experience of SCIELO [1], a reasonable fee is around 200
+USD. To me, this therefore seems that TOAUTOCJ’s first purpose is making money
+rather than facilitating science which makes me reluctant to contribute to it.
 
-Should you provide me with good answers to the issues raised above, I will consider refereeing the given paper.
+Should you provide me with good answers to the issues raised above, I will
+consider refereeing the given paper.
 
 Best regards,
 
 
-[1]: http://bjoern.brembs.net/2015/06/what-goes-into-making-a-scientific-manuscript-public/
+[1]:
+http://bjoern.brembs.net/2015/06/what-goes-into-making-a-scientific-manuscript-public/
 ```
 
 #### Use, remix, improve
